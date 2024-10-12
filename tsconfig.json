@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "module": "ES2020",
-    "lib": ["es2020", "dom"],
-    "moduleResolution": "node",
+    "module": "ESNext",
+    "lib": ["ESNext", "DOM"],
+    "moduleResolution": "Node",
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
